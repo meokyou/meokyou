@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Christian, enrolled at Richardson High School 🎓 I want to become a professor of computer science and study microprocessors (eventually) 👨‍🏫</div>  
+### <div align="center">I'm Christian, enrolled at Richardson High School 🎓 I want to become a professor of electrical engineering to study microprocessors (I think...) 👨‍🏫</div>  
   
 
 - 🔭 I'm currently working on an Obsidian plugin that can be found [here](https://github.com/meokyou/obsidian-background)  
