@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Christian, enrolled at Richardson High School 🎓 I want to become a professor of electrical engineering to study microprocessors (I think...) 👨‍🏫</div>  
+### <div align="center">**Hello there!** :wave: I am Christian Anderson. It is my mission to bring joy and happiness to the world.</div>  
   
 
 - 🔭 I'm currently working on an Obsidian plugin that can be found [here](https://github.com/meokyou/obsidian-background)  
@@ -58,7 +58,9 @@
 <a href="https://www.youtube.com/user/meokyou" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-  
+<a href="https://instagram.com/pendedekagon" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
 
 <br/>  
 
